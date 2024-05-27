@@ -25,3 +25,8 @@ Submit Pull Requests
 Fork the repository, make your changes, and submit a pull request. We review all contributions and appreciate your efforts.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact us:
+sushantsudan3075@gmail.com 
+arnavku4321@gmail.com
+gauravarora2460@gmail.com
