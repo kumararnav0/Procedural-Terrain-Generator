@@ -20,12 +20,13 @@ We welcome contributions from the community! Here's how you can help:
 
 Use the issue tracker to report bugs. Be sure to include detailed information to help us diagnose and fix the issue.
 
-Suggest Features
+2.Suggest Features
 
 If you have ideas for new features or improvements, please open a new issue or contact us directly.
 Submit Pull Requests
 
 Fork the repository, make your changes, and submit a pull request. We review all contributions and appreciate your efforts.
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
