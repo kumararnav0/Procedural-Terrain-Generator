@@ -4,6 +4,7 @@ Procedural Terrain Generation in Unity3D
 Overview
 This project is focused on generating procedural terrains for Unity3D, which can be used in various types of games, especially open-world or sandbox games. The system allows for the creation of diverse and realistic landscapes by using noise functions and other procedural techniques.
 
+
 Features
 Noise-based Terrain Generation: Utilize Perlin noise, Simplex noise, or custom noise functions to create varied and natural-looking terrains.
 Customizable Parameters: Adjust parameters like terrain height, frequency, amplitude, and scale to generate different types of landscapes.
