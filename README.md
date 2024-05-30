@@ -16,9 +16,10 @@ Integration with Unity Terrain System: Seamless integration with Unity's built-i
 Contribution
 We welcome contributions from the community! Here's how you can help:
 
-Report Bugs
+1.Report Bugs
 
 Use the issue tracker to report bugs. Be sure to include detailed information to help us diagnose and fix the issue.
+
 Suggest Features
 
 If you have ideas for new features or improvements, please open a new issue or contact us directly.
